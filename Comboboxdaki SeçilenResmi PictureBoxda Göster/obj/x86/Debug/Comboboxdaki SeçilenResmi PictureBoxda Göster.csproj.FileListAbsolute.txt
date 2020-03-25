@@ -1,0 +1,14 @@
+C:\Users\murat\Desktop\KBRMRT\5 C#\Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\bin\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.exe
+C:\Users\murat\Desktop\KBRMRT\5 C#\Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\bin\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.pdb
+C:\Users\murat\Desktop\KBRMRT\5 C#\Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki_SeçilenResmi_PictureBoxda_Göster.Form1.resources
+C:\Users\murat\Desktop\KBRMRT\5 C#\Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki_SeçilenResmi_PictureBoxda_Göster.Properties.Resources.resources
+C:\Users\murat\Desktop\KBRMRT\5 C#\Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\KBRMRT\5 C#\Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.exe
+C:\Users\murat\Desktop\KBRMRT\5 C#\Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.pdb
+E:\04 - Yazılım\04 - Form Projeleri\106 Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.exe
+E:\04 - Yazılım\04 - Form Projeleri\106 Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.pdb
+E:\04 - Yazılım\04 - Form Projeleri\106 Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\bin\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.exe
+E:\04 - Yazılım\04 - Form Projeleri\106 Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\bin\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.pdb
+E:\04 - Yazılım\04 - Form Projeleri\106 Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki_SeçilenResmi_PictureBoxda_Göster.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\106 Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki_SeçilenResmi_PictureBoxda_Göster.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\106 Comboboxdaki SeçilenResmi PictureBoxda Göster\Comboboxdaki SeçilenResmi PictureBoxda Göster\obj\x86\Debug\Comboboxdaki SeçilenResmi PictureBoxda Göster.csproj.GenerateResource.Cache
